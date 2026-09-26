@@ -31,7 +31,7 @@
   <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/js.svg">
   <img align="center" alt="Badge-TS" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/ts.svg">
   <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/node.svg">
-  <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/npm.svg">
+  <img align="center" alt="Badge-Python" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/python.svg">
   <img align="center" alt="Badge-SASS" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/sass.svg">
   <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/react.svg">
   <img align="center" alt="Badge-Insomnia" height="30px" width="40px" src="https://github.com/codebybueno/codebybueno/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/insomnia.svg">
